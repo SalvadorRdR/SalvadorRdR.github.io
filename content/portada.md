@@ -1,7 +1,6 @@
 +++
 title = "SalvadorR"
 description = "Hi! My name is Ken Jee."
-theme_version = "2.8.2"
 
 +++
 
