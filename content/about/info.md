@@ -1,6 +1,6 @@
 +++
 title = 'Info'
-description = 'Hi! My name is Ken Jee. I'm a Data Scientist. My expertise is in Sports Analytics.'
+description = "Hi! My name is Ken Jee. I am a Data Scientist. My expertise is in Sports Analytics."
 date = 2024-09-06T02:29:17-05:00
 draft = true
 +++
