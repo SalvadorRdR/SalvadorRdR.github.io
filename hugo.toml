@@ -1,18 +1,18 @@
 baseURL = 'https://example.org/'
-languageCode = 'en-us'
+languageCode = 'es'
 title = 'Salvador Romero'
 theme = 'ananke'
 
 [menu]
   [[menu.main]]
 	identifier = "about"
-	name = "About"
-	title = "About"
+	name = "Sobre mi"
+	title = "Sobre mi"
 	url = "/about/"
 	weight = 0
   [[menu.main]]
 	identifier = "posts"
-	name = "Posts"
-	title = "Posts"
+	name = "Proyectos"
+	title = "Proyectos"
 	url = "/posts/"
 	weight = 0
