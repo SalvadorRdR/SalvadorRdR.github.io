@@ -9,14 +9,14 @@ DefaultContentLanguage = "es"
 
 [menu]
   [[menu.main]]
-	identifier = "about"
+	#identifier = "about"
 	name = "Sobre mi"
 	title = "Sobre mi"
 	url = "/about/"
-	weight = 0
+	weight = 1
   [[menu.main]]
-	identifier = "posts"
+	#identifier = "posts"
 	name = "Proyectos"
 	title = "Proyectos"
 	url = "/posts/"
-	weight = 0
+	weight = 2
