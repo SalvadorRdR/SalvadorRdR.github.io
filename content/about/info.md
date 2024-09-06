@@ -1,6 +1,5 @@
 +++
-title = 'Info'
-description = "Hi! My name is Ken Jee. I am a Data Scientist. My expertise is in Sports Analytics."
+title = 'Acerca de mi'
 date = 2024-09-06T02:29:17-05:00
 +++
 
