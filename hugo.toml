@@ -3,6 +3,10 @@ languageCode = 'es'
 title = 'Salvador Romero'
 theme = 'ananke'
 
+
+
+DefaultContentLanguage = "es"
+
 [menu]
   [[menu.main]]
 	identifier = "about"

@@ -1,5 +1,5 @@
 +++
-title = 'Acerca de mi'
+title = 'Sobre mi'
 date = 2024-09-06T02:29:17-05:00
 +++
 
