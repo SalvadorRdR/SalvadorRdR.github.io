@@ -1,19 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Salvador Romero</title>
+    <title>Inicio on Salvador Romero</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Salvador Romero</description>
+    <description>Recent content in Inicio on Salvador Romero</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 06 Sep 2024 01:27:21 -0500</lastBuildDate>
+    <language>es</language>
+    <lastBuildDate>Sat, 07 Sep 2024 18:34:57 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Inicio</title>
-      <link>http://localhost:1313/posts/inicio/</link>
-      <pubDate>Fri, 06 Sep 2024 01:27:21 -0500</pubDate>
-      <guid>http://localhost:1313/posts/inicio/</guid>
-      <description>&lt;p&gt;Hello world&lt;/p&gt;</description>
+      <title>Misión COSPAR-1</title>
+      <link>http://localhost:1313/posts/project_3/</link>
+      <pubDate>Sat, 07 Sep 2024 18:34:57 -0500</pubDate>
+      <guid>http://localhost:1313/posts/project_3/</guid>
+      <description>&lt;p&gt;Trabajo en el desarrollo de &lt;strong&gt;COSPAR-1&lt;/strong&gt;, un CubeSat de 3U, del &lt;strong&gt;&lt;a href=&#34;https://cosparhq.cnes.fr/&#34;&gt;Committee on Space Research (COSPAR)&lt;/a&gt;&lt;/strong&gt;, con lanzamiento planificado para 2025.&lt;/p&gt;&#xA;&lt;p&gt;Construido en colaboración con el &lt;strong&gt;&lt;a href=&#34;https://lasp.colorado.edu/&#34;&gt;Laboratory for Atmospheric and Space Physics (LASP)&lt;/a&gt;&lt;/strong&gt; de University of Colorado Boulder (EE.UU.), la &lt;strong&gt;Universidad Nacional de Ingeniería (UNI)&lt;/strong&gt; (Perú), la &lt;strong&gt;Kuwait Foundation for the Advancement of Sciences (KFAS)&lt;/strong&gt; (Kuwait), la &lt;strong&gt;National Central University (NCU)&lt;/strong&gt; (Taiwán), y la &lt;strong&gt;Tuskegee University (TU)&lt;/strong&gt; (EE.UU.).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Chasqui-II</title>
+      <link>http://localhost:1313/posts/project_2/</link>
+      <pubDate>Sat, 07 Sep 2024 16:31:23 -0500</pubDate>
+      <guid>http://localhost:1313/posts/project_2/</guid>
+      <description>&lt;p&gt;Soy estudiante investigador voluntario en la iniciativa satelital &lt;a href=&#34;https://www.facebook.com/CHASQUI2UNI&#34;&gt;Chasqui-II&lt;/a&gt; de la Universidad Nacional de Ingeniería, cuyo objetivo es desarrollar el segundo nanosatelite de la universidad.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Coordinador del Subsistema de Órbita/Atmósfera.&lt;/li&gt;&#xA;&lt;li&gt;Coordinador del Subsistema de Carga Útil.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;En el marco de esta iniciativa he desarrollado las siguientes investigaciones (papers):&lt;/p&gt;&#xA;&lt;h3 id=&#34;nanosatellite-proposal-for-monitoring-the-south-atlantic-magnetic-anomaly-sama-and-plasmaspheric-hiss-over-the-intertropical-zone-of-south-america-in-interplanetary-shocks&#34;&gt;Nanosatellite Proposal for Monitoring the South Atlantic Magnetic Anomaly (SAMA) and Plasmaspheric Hiss over the Intertropical Zone of South America in Interplanetary Shocks&lt;/h3&gt;&#xA;&lt;p&gt;El objetivo principal de esta propuesta es monitorear la desaparición del &lt;strong&gt;Plasmaspheric Hiss (PH)&lt;/strong&gt; y el debilitamiento del &lt;strong&gt;campo geomagnético&lt;/strong&gt; en la región &lt;strong&gt;South Atlantic Magnetic Anomaly (SAMA)&lt;/strong&gt;, debido a tormentas geomagnéticas causadas por &lt;strong&gt;Interplanetary Shocks&lt;/strong&gt;, utilizando dos CubeSats: &lt;strong&gt;CHASQUI A&lt;/strong&gt; y &lt;strong&gt;CHASQUI B.&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Qhapaq Ñan</title>
+      <link>http://localhost:1313/posts/project_1/</link>
+      <pubDate>Sat, 07 Sep 2024 15:35:43 -0500</pubDate>
+      <guid>http://localhost:1313/posts/project_1/</guid>
+      <description>&lt;p&gt;Lideré del subsistema de carga útil del proyecto &lt;a href=&#34;https://www.facebook.com/profile.php?id=100092552435120&#34;&gt;Qhapaq Ñan&lt;/a&gt;, enfocado en el desarrollo de un módulo de &lt;strong&gt;comunicación APRS&lt;/strong&gt; con un magnetómetro como carga útil.&lt;/p&gt;&#xA;&lt;p&gt;Mis responsabilidades incluyeron:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Caracterización del &lt;strong&gt;magnetómetro RM3100&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Integración y pruebas del &lt;strong&gt;transceptor&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Desarrollo y pruebas del módulo &lt;strong&gt;TNC (Terminal Node Controller)&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Desarrollo de una &lt;strong&gt;estación APRS portátil&lt;/strong&gt; para la recepción y transmisión de datos.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Estación meteorológica con comunicación satelital</title>
+      <link>http://localhost:1313/posts/project_4/</link>
+      <pubDate>Sun, 01 Sep 2024 02:02:06 -0500</pubDate>
+      <guid>http://localhost:1313/posts/project_4/</guid>
+      <description>&lt;p&gt;Como parte del curso de &lt;strong&gt;Sistemas Digitales&lt;/strong&gt; en mi carrera de Ingeniería Física, diseñé e implementé una &lt;strong&gt;estación meteorológica de bajo costo basada en Arduino&lt;/strong&gt;, capaz de medir diversos parámetros ambientales, tales como la humedad del suelo, humedad relativa, temperatura, presión atmosférica y altura relativa al nivel del mar.&lt;/p&gt;&#xA;&lt;p&gt;Para la adquisición de datos, utilicé los siguientes sensores:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Higrómetro&lt;/strong&gt;: Para medir la humedad del suelo.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;DHT22&lt;/strong&gt;: Para la humedad relativa y temperatura.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;BMP180&lt;/strong&gt;: Para la presión atmosférica y la altura.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/estacion_final.png&#34;&gt;&#xA; &lt;/figure&gt;&#xA;&#xA;&lt;p&gt;Los datos recolectados fueron transmitidos a la plataforma en la nube &lt;strong&gt;Swarm Hive&lt;/strong&gt; mediante un &lt;strong&gt;&lt;a href=&#34;https://github.com/sparkfunX/Satellite_Transceiver_Breakout__Swarm_M138&#34;&gt;transceptor satelital Swarm M138&lt;/a&gt;&lt;/strong&gt; conectado al Arduino Mega. Este sistema permitió la monitorización en tiempo real de los datos, garantizando una comunicación eficiente y confiable entre los sensores y la tecnología satelital.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -4,7 +4,7 @@ title = 'Salvador Romero'
 theme = 'ananke'
 
 
-
+#SectionPagesMenu = "main"
 DefaultContentLanguage = "es"
 
 [menu]
@@ -20,3 +20,9 @@ DefaultContentLanguage = "es"
 	title = "Proyectos"
 	url = "/posts/"
 	weight = 2
+
+
+[params]
+  linkedin = "https://www.linkedin.com/in/salvadorromerodelaroca/"  
+  github = "https://github.com/SalvadorRdR"
+  recent_posts_number = 3

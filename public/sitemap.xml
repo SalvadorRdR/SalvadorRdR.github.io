@@ -2,16 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/inicio/</loc>
-    <lastmod>2024-09-06T01:27:21-05:00</lastmod>
+    <loc>http://localhost:1313/posts/project_3/</loc>
+    <lastmod>2024-09-07T18:34:57-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-09-07T18:34:57-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/project_2/</loc>
+    <lastmod>2024-09-07T16:31:23-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/project_1/</loc>
+    <lastmod>2024-09-07T15:35:43-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2024-09-06T02:29:17-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-09-06T01:27:21-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-09-06T01:27:21-05:00</lastmod>
+    <loc>http://localhost:1313/posts/project_4/</loc>
+    <lastmod>2024-09-01T02:02:06-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/contact/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>
