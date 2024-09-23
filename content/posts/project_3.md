@@ -1,6 +1,6 @@
 +++
 title = 'Misión COSPAR-1'
-featured_image = "/images/cospar_1.jpg"
+featured_image = "/images/cospar11.jpg"
 date = 2024-09-07T18:34:57-05:00
 +++
 
